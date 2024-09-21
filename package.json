@@ -1,0 +1,19 @@
+{
+  "name": "solid-mvc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/henriquebego37/solid-mvc.git",
+  "author": "henriquebego37 <henriquedev37@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.5.5",
+    "ts-node": "^10.9.2",
+    "tsconfig": "^7.0.0"
+  },
+  "scripts": {
+    "dev": "ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
